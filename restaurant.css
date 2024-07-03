@@ -1,0 +1,108 @@
+html{
+    height: 100%;
+}
+body{
+   background-image: url(images/kkkk.jpg);
+   background-size: cover;
+   background-repeat: no-repeat;
+background-position: center;
+}
+
+wrapper{
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+header{
+   text-align: center;
+    width: 700px;
+    height: ;
+    margin-bottom: 6px;
+    margin-left: auto;
+    margin-right: auto
+    
+
+  
+  
+}
+
+    
+nav{
+   background-color: rgba(5, 5, 5, 0.356);
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px; 
+    margin-bottom: 85px;
+    outline: black; 
+    text-align: center;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    text-decoration: none;
+    color: aliceblue;
+}
+
+main{
+    width: 700px;
+    height: 250px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+
+    
+
+
+    }
+ 
+footer{
+    background-color: rgba(3, 3, 3, 0.459);
+    width: 700px;
+    height: 70px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 105px;
+    margin-bottom: -30PX;
+}
+
+.boy{
+    color: white;
+    text-align: center;
+    padding-top: 20px;
+padding-bottom: 4opx;
+}
+
+   h2{
+    font-size:35px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(255, 0, 0);
+    margin-top:  -50px;
+    margin-bottom: 45px;
+    padding-top: -40px; 
+ 
+   }
+    
+
+   p{
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif; 
+    color: rgb(10, 10, 10);
+    margin-top:  40px;
+    margin-bottom: 35px;
+   word-spacing: 20px;
+   }
+
+   a{
+   font-size: 22px;
+   margin-top: -10px;
+   color: purple;
+   text-decoration: underline
+   
+   }
+
+   nav a {
+    text-decoration: none;
+    font-size: 12;
+    padding-left: 10px;
+    padding-right: 10px;
+   }
